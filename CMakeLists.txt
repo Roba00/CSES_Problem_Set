@@ -3,4 +3,4 @@ project(CSES_Problem_Set)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CSES_Problem_Set src/Runner.cpp src/introductory_problems/WeirdAlgorithm.cpp src/introductory_problems/WeirdAlgorithm.h src/introductory_problems/MissingNumber.cpp src/introductory_problems/MissingNumber.h)
+add_executable(CSES_Problem_Set src/Runner.cpp src/introductory_problems/WeirdAlgorithm.cpp src/introductory_problems/WeirdAlgorithm.h src/introductory_problems/MissingNumber.cpp src/introductory_problems/MissingNumber.h src/introductory_problems/Repetitions.cpp src/introductory_problems/Repetitions.h)
