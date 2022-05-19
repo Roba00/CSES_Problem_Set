@@ -51,19 +51,19 @@ build cmake_object_order_depends_target_CSES_Problem_Set: phony || CMakeFiles/CS
 
 build CMakeFiles/CSES_Problem_Set.dir/src/Runner.cpp.obj: CXX_COMPILER__CSES_Problem_Set_Debug C$:/Users/abbaj/Documents/JetBrainsProjects/CLionProjects/CSES_Problem_Set/src/Runner.cpp || cmake_object_order_depends_target_CSES_Problem_Set
   DEP_FILE = CMakeFiles\CSES_Problem_Set.dir\src\Runner.cpp.obj.d
-  FLAGS = -g -std=gnu++2a
+  FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CSES_Problem_Set.dir
   OBJECT_FILE_DIR = CMakeFiles\CSES_Problem_Set.dir\src
 
 build CMakeFiles/CSES_Problem_Set.dir/src/introductory_problems/WeirdAlgorithm.cpp.obj: CXX_COMPILER__CSES_Problem_Set_Debug C$:/Users/abbaj/Documents/JetBrainsProjects/CLionProjects/CSES_Problem_Set/src/introductory_problems/WeirdAlgorithm.cpp || cmake_object_order_depends_target_CSES_Problem_Set
   DEP_FILE = CMakeFiles\CSES_Problem_Set.dir\src\introductory_problems\WeirdAlgorithm.cpp.obj.d
-  FLAGS = -g -std=gnu++2a
+  FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CSES_Problem_Set.dir
   OBJECT_FILE_DIR = CMakeFiles\CSES_Problem_Set.dir\src\introductory_problems
 
 build CMakeFiles/CSES_Problem_Set.dir/src/introductory_problems/MissingNumber.cpp.obj: CXX_COMPILER__CSES_Problem_Set_Debug C$:/Users/abbaj/Documents/JetBrainsProjects/CLionProjects/CSES_Problem_Set/src/introductory_problems/MissingNumber.cpp || cmake_object_order_depends_target_CSES_Problem_Set
   DEP_FILE = CMakeFiles\CSES_Problem_Set.dir\src\introductory_problems\MissingNumber.cpp.obj.d
-  FLAGS = -g -std=gnu++2a
+  FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CSES_Problem_Set.dir
   OBJECT_FILE_DIR = CMakeFiles\CSES_Problem_Set.dir\src\introductory_problems
 
