@@ -1,0 +1,6 @@
+#ifndef CSES_PROBLEM_SET_INCREASINGARRAY_H
+#define CSES_PROBLEM_SET_INCREASINGARRAY_H
+
+int IncreasingArrayMain();
+
+#endif
