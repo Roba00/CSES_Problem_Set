@@ -1,5 +1,5 @@
-#include "introductory_problems/TwoKnights.h"
+#include "introductory_problems/TwoSets.h"
 
 int main() {
-    return TwoKnightsMain();
+    return TwoSetsMain();
 }
