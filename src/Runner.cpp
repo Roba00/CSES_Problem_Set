@@ -1,5 +1,5 @@
-#include "introductory_problems/NumberSpiral.h"
+#include "introductory_problems/TwoKnights.h"
 
 int main() {
-    return NumberSpiralMain();
+    return TwoKnightsMain();
 }
