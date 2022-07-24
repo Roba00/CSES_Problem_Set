@@ -1,5 +1,5 @@
-#include "introductory_problems/IncreasingArray.h"
+#include "introductory_problems/Permutations.h"
 
 int main() {
-    return IncreasingArrayMain();
+    return PermutationsMain();
 }
