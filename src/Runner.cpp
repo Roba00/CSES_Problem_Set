@@ -1,5 +1,5 @@
-#include "introductory_problems/Permutations.h"
+#include "introductory_problems/NumberSpiral.h"
 
 int main() {
-    return PermutationsMain();
+    return NumberSpiralMain();
 }
