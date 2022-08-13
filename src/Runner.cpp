@@ -1,5 +1,5 @@
-#include "introductory_problems/TwoSets.h"
+#include "introductory_problems/BitStrings.h"
 
 int main() {
-    return TwoSetsMain();
+    return BitStringsMain();
 }
